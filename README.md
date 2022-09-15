@@ -2,5 +2,6 @@
 
 Esta API foi feita para realizar os cálculos necessário utilizados no dia-a-dia do trabalho de um amigo. 
 A linguagem que utilizei é o Python, com o MicroFrameWork Flask e salvando o histórico de cálculos no SQLite.
+A arquitetura de pastas foi feita pensado como MVC.
 
 Estou produzindo um FrontEnd para melhor visualização, no momento os teste podem ser feitos utilizando, por exemplo, o Insomnia para enviar e receber as requisições.
